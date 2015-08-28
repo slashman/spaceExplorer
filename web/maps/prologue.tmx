@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="128" height="16" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Denzi130210-10" tilewidth="16" tileheight="16">
+  <image source="../img/Denzi130210-10.png" trans="476c6c" width="448" height="368"/>
+ </tileset>
+ <tileset firstgid="645" name="Denzi100308-1" tilewidth="16" tileheight="16">
+  <image source="../img/Denzi100308-1.PNG" trans="476c6c" width="768" height="416"/>
+ </tileset>
+ <layer name="background 2" width="128" height="16">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20ON6AAAAAAAAAAgHcDIAAAAQ==
+  </data>
+ </layer>
+ <layer name="background1" width="128" height="16">
+  <data encoding="base64" compression="zlib">
+   eJzt0jkSAiEURVESwXnuwCW5UJfksBxv0gmWIrbVWtU3OBHwgXqviSE0kiRJkiRJklSwSCEsscIaE0wxwxwbbLHDPpXP//o/Q5RnlmfSZnhi7xkXXHHDsdKIOREJ4/S43s6PLzqjbvIMD5Xevae2G6XO2Id+Pcuj7/y7vEHf74D5D8e/5m8HPncHkBn3sg==
+  </data>
+ </layer>
+ <layer name="solid" width="128" height="16">
+  <data encoding="base64" compression="zlib">
+   eJzt1TkKwkAAheEBHfetslNw6bVR427lNbTRTm9jqTdUcDmAv0WaaJLGJcj74SuSaQKPIcYopZRSSimllFJKPVeMGVOK+Z8f48accMYFV9zi3/s+9dmmbD8L2L9ijamihjoaaNrvfZ96T+499t7dFs9t3ee/z73H3ru7YPul9ldk+Q8kkEQKaWSQRQ55FAL+Feq3ubslfaRCNuzwvoseHPQxwBAjjDHR/pHN3a3nwwnZcMX7Neb2tQ1nW+0f2co2XNCGu4DtH/acH7R/ZLsDp+Ia1A==
+  </data>
+ </layer>
+ <layer name="foreground" width="128" height="16">
+  <data encoding="base64" compression="zlib">
+   eJzt1qERACAMA8A6NoL9N8NzCOpa7l/HRSQRAAAAcDfHe3YlsgBAHzb+L2efmb8HANS3AcknATU=
+  </data>
+ </layer>
+</map>

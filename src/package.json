@@ -1,0 +1,17 @@
+{
+  "name": "spaceExplorer",
+  "version": "0.1.0",
+  "description": "Jump and fire across lots of planets.",
+  "main": "SpaceExplorer.js",
+  "scripts": {
+  	"build": "browserify --debug SpaceExplorer.js -o ../web/spaceExplorer.min.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Zapata",
+  "dependencies": {
+    "phaser": "^2.4.3"
+  },
+  "devDependencies": {
+    "browserify": "^11.0.1"
+  }
+}
